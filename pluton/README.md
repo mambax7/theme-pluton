@@ -3,7 +3,7 @@ Pluton Bootstrap Theme For XOOPS CMS 2.5.9+
 
 ![Theme Preview](/theme_preview.png)
 
-Pluton is a Modern Multipurpose HTML5 Landing Page based on Bootstrap. It has been built by using the latest HTML5/CSS3/jQuery techniques and it’s fully responsive, it works great on all devices, any screen size, including desktops, laptops, tablets and mobile phones. 
+Pluton is a Modern Multipurpose HTML5 Landing Page based on Bootstrap. It has been built by using the latest HTML5/CSS3/jQuery techniques and itâ€™s fully responsive, it works great on all devices, any screen size, including desktops, laptops, tablets and mobile phones. 
  
 
 Ported to XOOPS [CMS 2.5.9+](https://xoops.org/modules/publisher/item.php?itemid=5972)

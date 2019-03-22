@@ -1,0 +1,6 @@
+Credits
+===============
+
+* Conversion for XOOPS CMS: **Michael Beck**
+* Design and development: [GraphBerry](https://www.graphberry.com)
+* Original release distributed as: [Pluton](https://www.graphberry.com/item/pluton-single-page-bootstrap-html-template)
